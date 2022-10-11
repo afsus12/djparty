@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981630909651",
+    "firebase_url": "https://partywithdj-78cb4-default-rtdb.firebaseio.com",
+    "project_id": "partywithdj-78cb4",
+    "storage_bucket": "partywithdj-78cb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981630909651:android:7946f6ea3041a9fd75a826",
+        "android_client_info": {
+          "package_name": "com.example.djmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981630909651-bu1ohc1tk8e18h8qeg11kojq2ean4ceq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZVJa7Ke6727IHUOnFJI0QVm1VjUxsxTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981630909651-bu1ohc1tk8e18h8qeg11kojq2ean4ceq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
